@@ -1,2 +1,3 @@
-# MSC_STAD
-Metabolic Signature Subtypes in Gastric Cancer
+# Metabolic Signature Subtypes in Gastric Cancer
+**Molecular Characterization and Clinical Relevance of Metabolic Signature Subtypes in Gastric Cancer**
+Recent studies highlighted the clinicopathologic importance of tumor metabolic reprogramming in delineating molecular attributes and therapeutic potentials. However, the overall metabolic features in gastric cancer (GC) have not been comprehensively recognized. Here, non-negative matrix factorization (NMF) clustering algorithm is employed to determine the tumor metabolism patterns in GC. The comprehensive metabolic signature-based clustering analysis identifies three distinct cluster (termed as MSC1, MSC2, MSC3) with substantial differences in metabolic pathways and oncology signaling, as well as tumor microenvironment, prognosis and genomic alterations. The constructed metabolic subtype-related prognosis genes (MSPG) scoring model divides GC patients into high- and low-score subgroups, where a low score is associated with glycosaminoglycan metabolism, and worse prognosis. 
